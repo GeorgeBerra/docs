@@ -1,4 +1,4 @@
----
+Joege--- 
 title: Creating a template repository
 intro: 'You can make an existing repository a template, so you and others can generate new repositories with the same directory structure{% ifversion fpt or ghae or ghes %}, branches,{% endif %} and files.'
 permissions: Anyone with admin permissions to a repository can make the repository a template.
